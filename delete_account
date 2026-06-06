@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eliminación de Cuenta — Akame IoT</title>
+
+<style>
+  body {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #222;
+    max-width: 760px;
+    margin: 60px auto;
+    padding: 0 32px 80px;
+  }
+
+  h1 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 4px;
+  }
+
+  .subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 4px;
+  }
+
+  .fecha {
+    text-align: center;
+    font-size: 13px;
+    color: #888;
+    font-style: italic;
+    margin-bottom: 40px;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 32px 0;
+  }
+
+  h2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 32px 0 8px;
+  }
+
+  p {
+    margin: 0 0 12px;
+    text-align: justify;
+  }
+
+  ul {
+    margin: 8px 0 12px 24px;
+    padding: 0;
+  }
+
+  ul li {
+    margin-bottom: 6px;
+  }
+
+  .footer {
+    text-align: center;
+    font-size: 13px;
+    color: #999;
+    margin-top: 48px;
+  }
+
+  @media (max-width: 600px) {
+    body {
+      margin: 32px auto;
+      padding: 0 20px 60px;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>ELIMINACIÓN DE CUENTA</h1>
+<p class="subtitle">Akame IoT — Aplicación Móvil de Monitoreo IoT</p>
+<p class="fecha">Última actualización: Junio 2026</p>
+
+<hr>
+
+<h2>Solicitud de Eliminación de Cuenta</h2>
+
+<p>
+En Akame IoT respetamos tu privacidad y tu derecho a controlar tus datos.
+Si deseas eliminar tu cuenta y los datos asociados, puedes solicitarlo
+siguiendo las instrucciones descritas en esta página.
+</p>
+
+<hr>
+
+<h2>Cómo Solicitar la Eliminación</h2>
+
+<p>
+Para solicitar la eliminación de tu cuenta, envía un correo electrónico
+desde la dirección asociada a tu cuenta de Akame IoT con el asunto:
+<strong>"Solicitud de eliminación de cuenta"</strong>.
+</p>
+
+<p>
+Las solicitudes deben enviarse a:
+</p>
+
+<ul>
+  <li>Correo electrónico: cnxontle@gmail.com</li>
+</ul>
+
+<p>
+Una vez recibida la solicitud, verificaremos la identidad del solicitante
+antes de procesar la eliminación.
+</p>
+
+<hr>
+
+<h2>Datos que se Eliminarán</h2>
+
+<p>
+Al completarse el proceso de eliminación, se eliminarán los siguientes datos
+asociados a tu cuenta:
+</p>
+
+<ul>
+  <li>Cuenta de usuario.</li>
+  <li>Dirección de correo electrónico registrada.</li>
+  <li>Configuración y preferencias de la cuenta.</li>
+  <li>Dispositivos asociados a la cuenta.</li>
+  <li>Datos de telemetría vinculados a la cuenta.</li>
+</ul>
+
+<hr>
+
+<h2>Datos que Podrían Conservarse Temporalmente</h2>
+
+<p>
+Determinados registros técnicos y de seguridad podrán conservarse durante un
+período limitado cuando sea necesario para fines de auditoría, prevención de
+fraude, resolución de incidencias técnicas o cumplimiento de obligaciones
+legales.
+</p>
+
+<p>
+Una vez concluido el período de retención aplicable, dichos registros serán
+eliminados de forma permanente.
+</p>
+
+<hr>
+
+<h2>Tiempo de Procesamiento</h2>
+
+<p>
+Las solicitudes de eliminación suelen procesarse en un plazo de hasta treinta
+(30) días naturales a partir de la recepción y validación de la solicitud.
+</p>
+
+<hr>
+
+<h2>Contacto</h2>
+
+<p>
+Si tienes preguntas relacionadas con la eliminación de tu cuenta o el
+tratamiento de tus datos, puedes comunicarte con Akame IoT a través de:
+</p>
+
+<ul>
+  <li>Correo electrónico: cnxontle@gmail.com</li>
+</ul>
+
+<hr>
+
+<p class="footer">© 2026 Akame IoT. Todos los derechos reservados.</p>
+
+</body>
+</html>
